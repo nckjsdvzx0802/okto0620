@@ -1,5 +1,5 @@
 services:
-  okvtwo:
+  okto0620:
     build: .
     shm_size: 2.6gb
     ports:
